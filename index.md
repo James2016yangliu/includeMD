@@ -6,7 +6,7 @@ layout: home
 ---
 
 *content
-toc
+{:toc}
 {% include top.md%}
 {% include mid.md%}
 {% include foot.md%}
