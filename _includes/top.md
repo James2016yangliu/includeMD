@@ -1,4 +1,5 @@
-﻿## Summary
+
+## Summary
 
 OpenECOMP 1.0.0 represents a complete demo platform with two service examples as contributed by AT&T to the Linux Foundation ONAP project.
 
